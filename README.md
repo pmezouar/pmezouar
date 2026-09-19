@@ -100,9 +100,9 @@ REST API · OpenAPI · JSON · JWT · OAuth2
 
 | Projet                     | Description                                                              | Technologies                    | Démo                                    | Code                                                    |
 | :------------------------- | :----------------------------------------------------------------------- | :------------------------------ | :-------------------------------------- | :------------------------------------------------------ |
-| 💅 **Beauty Star**         | Application web conçue pour répondre aux besoins d'un institut de beauté | Python · Flask · PostgreSQL     | [Demo](https://beautystar.onrender.com) | [GitHub](https://github.com/pmezouar/beautystar)        |
-| 🌿 **Herbier de Provence** | Site web moderne conçu pour un grossiste en herbes aromatiques           | React · TypeScript · HTML · CSS | [Demo](https://herbier-provence.com)    | [GitHub](https://github.com/pmezouar/herbierdeprovence) |
-| 🌐 **OlysWeb**             | Site web de mon agence dédiée aux solutions web sur mesure               | React · TypeScript · HTML · CSS | [Demo](https://olysweb.com)             | [GitHub](https://github.com/pmezouar/olysweb)           |
+| 💅 **Beauty Star** | Site web moderne et dynamique conçue pour un institut de beauté | HTML · CSS · JavaScript | [Demo](https://beauty-star.fr) | [GitHub](https://github.com/olysweb/beautystar)  |
+| 🌿 **Herbier de Provence** | Site web moderne et dynamique conçu pour un grossiste en herbes aromatiques | HTML · CSS · JavaScript | [Demo](https://herbier-provence.com) | [GitHub](https://github.com/olysweb/herbierdeprovence) |
+| 🌐 **OlysWeb** | Site web de mon agence web professionnelle | HTML · CSS · JavaScript | [Demo](https://olysweb.com) | [GitHub](https://github.com/olysweb/olysweb)           |
 
 ---
 

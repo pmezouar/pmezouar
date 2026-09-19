@@ -100,7 +100,7 @@ REST API · OpenAPI · JSON · JWT · OAuth2
 
 | Projet                     | Description                                                              | Technologies                    | Démo                                    | Code                                                    |
 | :------------------------- | :----------------------------------------------------------------------- | :------------------------------ | :-------------------------------------- | :------------------------------------------------------ |
-| 💅 **Beauty Star** | Site web moderne et dynamique conçue pour un institut de beauté | HTML · CSS · JavaScript | [Demo](https://beauty-star.fr) | [GitHub](https://github.com/olysweb/beautystar)  |
+| 💅 **Beauty Star** | Site web moderne et dynamique conçu pour un institut de beauté | HTML · CSS · JavaScript | [Demo](https://beauty-star.fr) | [GitHub](https://github.com/olysweb/beautystar)  |
 | 🌿 **Herbier de Provence** | Site web moderne et dynamique conçu pour un grossiste en herbes aromatiques | HTML · CSS · JavaScript | [Demo](https://herbier-provence.com) | [GitHub](https://github.com/olysweb/herbierdeprovence) |
 | 🌐 **OlysWeb** | Site web de mon agence web professionnelle | HTML · CSS · JavaScript | [Demo](https://olysweb.com) | [GitHub](https://github.com/olysweb/olysweb)           |
 

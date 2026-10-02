@@ -93,6 +93,15 @@ Mon objectif est de continuer à approfondir mes compétences en **Software Engi
 
 ---
 
+## 💕 Projets
+
+| Projet                     | Description                                                              | Technologies                    | Démo                                    | Code                                                    |
+| :------------------------- | :----------------------------------------------------------------------- | :------------------------------ | :-------------------------------------- | :------------------------------------------------------ |
+| 💅 **Beauty Star** | Site web moderne et dynamique conçu pour un institut de beauté | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) | [Demo](https://beauty-star.fr) | [GitHub](https://github.com/pmezouar/beautystar)  |
+| 🌿 **Herbier de Provence** | Site web moderne et dynamique conçu pour un grossiste en herbes aromatiques | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) | [Demo](https://herbier-provence.com) | [GitHub](https://github.com/pmezouar/herbierdeprovence) |
+
+---
+
 ## 🎓 Parcours & formations
 
 * 🖥️ **TP Technicien Supérieur Systèmes et Réseaux (TSSR)** - Studi - En cours

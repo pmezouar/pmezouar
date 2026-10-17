@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d071a&height=200&section=header&text=Priscilla%20MEZOUAR&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Bannière Priscilla Mezouar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b4377e&height=200&section=header&text=Priscilla%20MEZOUAR&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Bannière Priscilla Mezouar" />
 
 <img src="./priscilla-mezouar.png" width="200" alt="Portrait de Priscilla Mezouar" />
 
@@ -125,7 +125,7 @@ Mon objectif : continuer à renforcer mes compétences techniques pour concevoir
 Vous souhaitez échanger autour du développement web, d'un projet ou d'une opportunité professionnelle ? N'hésitez pas à me contacter !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pmezouar)
-[![Email](https://img.shields.io/badge/Email-6d071a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mezouar.priscilla@gmail.com)
+[![Email](https://img.shields.io/badge/Email-b4377e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mezouar.priscilla@gmail.com)
 
 ---
 
@@ -133,9 +133,9 @@ Vous souhaitez échanger autour du développement web, d'un projet ou d'une oppo
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=pmezouar&show_icons=true&bg_color=6d071a&title_color=a98941&text_color=ffffff&icon_color=a98941&border_color=6d071a&hide_border=false" alt="Statistiques GitHub de Priscilla" />
+<img src="https://github-readme-stats.shion.dev/api?username=pmezouar&show_icons=true&bg_color=b4377e&title_color=a98941&text_color=ffffff&icon_color=a98941&border_color=b4377e&hide_border=false" alt="Statistiques GitHub de Priscilla" />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pmezouar&layout=compact&bg_color=6d071a&title_color=a98941&text_color=ffffff&border_color=6d071a&hide_border=false" alt="Langages les plus utilisés sur GitHub" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pmezouar&layout=compact&bg_color=b4377e&title_color=a98941&text_color=ffffff&border_color=b4377e&hide_border=false" alt="Langages les plus utilisés sur GitHub" />
 
 </div>
 
